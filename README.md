@@ -7,13 +7,13 @@ Designing the cleaning service website was a step-by-step affair, beginning with
 Screenshots of the website tested on different devices and screen sizes:
 
 ### Desktop View
-![Desktop Home](images/desktop.png)
+<img  width="494" height="559" src="/>
 
 ### Tablet View
-![Tablet Home](images/Tablet.png)
+<img src="images/Tablet.png" alt="table" class="responsive-image">
 
 ### Mobile View
-![Tablet Home](images/mobile.png)
+<img src="images/mobile.png" alt="mobile" class="responsive-image">
 
 
 ## Changelog
@@ -36,20 +36,6 @@ This section records all changes made after Part 1 feedback.
 - Fixed layout issues for smaller mobile screens.
 
 ---
-
-## Wireframes
-Wireframes for both **desktop and mobile views** of all six pages are included in the `wireframes/` folder.
-
-Example wireframes include:
-- Home Page (Desktop & Mobile)
-- About Us Page (Desktop & Mobile)
-- Services Page (Desktop & Mobile)
-- Contact Page (Desktop & Mobile)
-- Blog Page (Desktop & Mobile)
-- Gallery Page (Desktop & Mobile)
-
----
-
 
 REFERENCES
 
