@@ -7,7 +7,7 @@ Designing the cleaning service website was a step-by-step affair, beginning with
 Screenshots of the website tested on different devices and screen sizes:
 
 ### Desktop View
-<img  width="494" height="559" src="/>
+ <img src="images/desktop.png" alt="desktop" class="responsive-image">
 
 ### Tablet View
 <img src="images/Tablet.png" alt="table" class="responsive-image">
@@ -37,6 +37,20 @@ This section records all changes made after Part 1 feedback.
 
 ---
 
+## Wireframes
+Wireframes for both **desktop and mobile views** of all six pages are included in the `wireframes/` folder.
+
+Example wireframes include:
+- Home Page (Desktop & Mobile)
+- About Us Page (Desktop & Mobile)
+- Services Page (Desktop & Mobile)
+- Contact Page (Desktop & Mobile)
+- Blog Page (Desktop & Mobile)
+- Gallery Page (Desktop & Mobile)
+
+---
+
+
 REFERENCES
 
 Brown, T. (2020) The role of online presence in small business growth. Cape Town: SA Business Press.
@@ -53,5 +67,4 @@ Smith, R. (2021) ‘How consumers find and choose local businesses’, Journal o
 - **Student Number:** ST10484781  
 - **Module Code:** WEDE5020  
 - **Lecturer:** Ms Phewa  
-
 
