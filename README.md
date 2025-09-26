@@ -18,7 +18,6 @@ Screenshots of the website tested on different devices and screen sizes:
 
 
 ## Changelog
-This section records all changes made after Part 1 feedback.
 
 #### Added
 - Created external stylesheet style.css and moved it to a separate css folder.
@@ -34,7 +33,8 @@ This section records all changes made after Part 1 feedback.
 
 #### Fixed
 - Corrected image paths to ensure all images load correctly.
-
+- corrected my Refrencing
+- and Added a wireframe
 
 ---
 
@@ -56,6 +56,7 @@ Smith, R. (2021) ‘How consumers find and choose local businesses’, Journal o
 - **Student Number:** ST10484781  
 - **Module Code:** WEDE5020  
 - **Lecturer:** Ms Phewa  
+
 
 
 
